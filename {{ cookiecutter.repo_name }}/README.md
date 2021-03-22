@@ -5,7 +5,7 @@
 ## Project Organization
 
 .
-├── project
+├── {{cookiecutter.repo_name}}
 │   ├── cli.py
 │   ├── data
 │   ├── features
