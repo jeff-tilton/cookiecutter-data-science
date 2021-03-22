@@ -4,6 +4,7 @@
 
 ## Project Organization
 
+```bash
 .
 ├── {{cookiecutter.repo_name}}
 │   ├── cli.py
@@ -27,6 +28,7 @@
 ├── reports
 │   └── figures
 └── setup.py
+```
 
 ---
 
