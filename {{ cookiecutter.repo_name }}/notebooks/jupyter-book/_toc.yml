@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: chapters/00_intro
+chapters:
+- file: chapters/01_methodology
+- file: chapters/02_results
+- file: chapters/03_decision_recommendations
+- file: chapters/04_conclusion
+- file: chapters/05_references
